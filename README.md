@@ -1,12 +1,12 @@
-# hi
+# idjid
 
 
 # Live Site
-hi
+dndjnd
 
 
 ## Description 
-hi
+dkdkjd
 
 
 ## Table of Contents
@@ -20,25 +20,26 @@ hi
 
 
 ## Installation
-hi
+dkjdk
 
 
 ## Usage 
-hi
+dkjdk
 
 
 ## License
-GNU General Public License v2.0
+https://img.shields.io/badge/license-MITLicense-blue.svg
+The license is MITLicense
 
 
 ## Credits
-hi
+dkjdi
 
 
 ## Tests
-hi
+jdkdj
 
 
 ## Questions
-hi
-hi
+If you have any additional questions please contact me at djdi.
+GitHub: https://github.com/idjd
