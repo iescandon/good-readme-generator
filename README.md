@@ -1,12 +1,12 @@
-# idj ![GitHub license](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-blue.svg)
+# Good ReadMe Generator ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 
 # Live Site
-idjfd
+https://github.com/iescandon/good-readme-generator
 
 
 ## Description 
-difjeif
+Description
 
 
 ## Table of Contents
@@ -20,25 +20,25 @@ difjeif
 
 
 ## Installation
-efijeif
+Installation
 
 
 ## Usage 
-eifjie
+Usage
 
 
 ## License
-The license is GNU General Public License v3.0
+The license is MIT License
 
 
 ## Credits
-eifjei
+Thank you Tish
 
 
 ## Tests
-iefjie
+Test
 
 
 ## Questions
-If you have any additional questions please contact me at eidjie.
-GitHub: https://github.com/idje
+If you have any additional questions please contact me at iescan4@gmail.com.
+GitHub: https://github.com/iescandon
