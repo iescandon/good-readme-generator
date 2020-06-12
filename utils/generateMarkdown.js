@@ -33,7 +33,7 @@ ${response.usage}
 
 
 ## License
-https://img.shields.io/badge/license-${response.license}-blue.svg
+[![GitHub license](https://img.shields.io/badge/license-${response.license}-blue.svg)]
 The license is ${response.license}
 
 
