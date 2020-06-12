@@ -49,9 +49,17 @@ const questions = [
       "None",
       "Apache License 2.0",
       "GNU General Public License v3.0",
-      "MITLicense",
+      "MIT License",
       "BSD T-Clause 'Simplified' License",
       "BSD 3-Clause 'New' or 'Revised' License",
+      "Creative Commons Xero v1.0 Universal",
+      "Eclipse Public License 2.0",
+      "GNU Affero General Public License v2.1",
+      "GNU General Public License v2.0",
+      "GNU Lesser General Public License v2.1",
+      "GNU Lesser General Public License v3.0",
+      "Mozilla Public License 2.0",
+      "The Unilicense",
     ],
     name: "license",
   },
@@ -70,12 +78,6 @@ const questions = [
 function promptUser() {
   return inquirer.prompt(questions);
 }
-
-//badges?
-//choose a license from a list - badge added near the top of the readme and also added in license name
-//enter github username - add link to github profile in questions section
-//enter email address - added to questions section with instructions on how to reach me with additional questions
-//each link in table of contents takes me to corresponding section of README
 
 // function to write README file
 // function writeToFile(fileName, data) {}

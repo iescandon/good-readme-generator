@@ -1,12 +1,12 @@
-# Hello
+# idj ![GitHub license](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-blue.svg)
 
 
 # Live Site
-dnid
+idjfd
 
 
 ## Description 
-didjid
+difjeif
 
 
 ## Table of Contents
@@ -20,26 +20,25 @@ didjid
 
 
 ## Installation
-jdijd
+efijeif
 
 
 ## Usage 
-dijd
+eifjie
 
 
 ## License
-[![GitHub license](https://img.shields.io/badge/license-MITLicense-blue.svg)]
-The license is MITLicense
+The license is GNU General Public License v3.0
 
 
 ## Credits
-dijd
+eifjei
 
 
 ## Tests
-idj
+iefjie
 
 
 ## Questions
-If you have any additional questions please contact me at odkd.
-GitHub: https://github.com/idjd
+If you have any additional questions please contact me at eidjie.
+GitHub: https://github.com/idje
