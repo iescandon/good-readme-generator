@@ -1,6 +1,6 @@
 // function to generate markdown for README
 
-// const licenseArray = [{ name }];
+const licenseArray = [{ name }];
 
 function generateMarkdown(response) {
   return `# ${response.title}
@@ -33,7 +33,7 @@ ${response.usage}
 
 
 ## License
-[![GitHub license](https://img.shields.io/badge/license-${response.license}-blue.svg)]
+https://img.shields.io/badge/license-${response.license}-blue.svg
 The license is ${response.license}
 
 
