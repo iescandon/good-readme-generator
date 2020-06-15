@@ -45,13 +45,12 @@ const questions = [
     type: "list",
     message: "Choose a license from the following list:",
     choices: [
-      "None",
       "Apache License 2.0",
       "GNU General Public License v3.0",
       "MIT License",
       "BSD T-Clause 'Simplified' License",
       "BSD 3-Clause 'New' or 'Revised' License",
-      "Creative Commons Xero v1.0 Universal",
+      "Creative Commons Zero v1.0 Universal",
       "Eclipse Public License 2.0",
       "GNU Affero General Public License v2.1",
       "GNU General Public License v2.0",
@@ -86,7 +85,7 @@ async function init() {
 
     await writeFileAsync("DEMO-README.md", readMeText);
 
-    console.log("Successfully wrote to README.md");
+    console.log("Successfully wrote to DEMO-README.md");
   } catch (err) {
     console.log(err);
   }
